@@ -7,7 +7,7 @@ Group customers into meaningful segments using unsupervised learning, aiding in 
 
 ## 🔍 Dataset
 - `Shopping mall.csv`  
-- Features: Age, Gender, Income, Spending Score, Frequency
+- Features: Age, Gender, Income, Spending, Frequency
 
 ## ⚙️ Techniques Used
 - Data Preprocessing & Scaling
@@ -19,7 +19,7 @@ Group customers into meaningful segments using unsupervised learning, aiding in 
 ## 📊 Key Output
 - 4 distinct customer segments
 - Visual insights via 2D pair plots and animated 3D scatter plot
-- Exported annotated CSV: `Customer_Segments_Annotated.csv`
+- Exported annotated CSV: `Customer Segments.csv`
 
 ## 📈 Silhouette Score
 Silhouette Score: 0.255 (Moderate clustering performance)
